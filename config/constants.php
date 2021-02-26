@@ -8,7 +8,7 @@
     // define('DB_PASSWORD', '');
     // define('DB_NAME', 'chkn-mnk');
 
-    FREE HOSTING
+//     FREE HOSTING
     define('SITEURL','https://chkn-mnk.herokuapp.com/');
     define('LOCALHOST', 'remotemysql.com');
     define('DB_USERNAME', 'lbyQ8E7HNA');
